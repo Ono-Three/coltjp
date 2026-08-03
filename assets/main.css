@@ -5,8 +5,10 @@ body {
 }
 
 .box {
-  height: 100%;
-  width: 100%;
+  border: 5px solid darkblue;
+  width: 200px;
+  margin: 10%;
+  padding: 10%;
 }
 
 .topnav {
