@@ -4,10 +4,9 @@ body {
   background-color: black;
 }
 
-.container {
+.box {
+  height: 100%;
   width: 100%;
-  line-height: 100px;
-  text-align: center;
 }
 
 .topnav {
